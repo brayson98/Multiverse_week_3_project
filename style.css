@@ -66,3 +66,13 @@ main {
 .dark-mode a {
     color: #76c7f4;
 }
+
+footer {
+    background-color: #35424a;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
